@@ -280,3 +280,13 @@ Comprueba la navegación, las mecánicas de los juegos originales, las nuevas fu
 - Las funciones principales no requieren un backend ni una base de datos externa.
 
 **Empieza por el paso 1 y espera mi confirmación antes de seguir al paso 2.**
+
+
+#**PITCH**
+1. Problema e Idea (0:00 - 0:30)"¿Alguna vez has intentado memorizar el balanceo de una ecuación química o las valencias de los elementos mirando únicamente un pizarrón estático? Para más del 70% de los estudiantes de secundaria y preparatoria en América Latina, la química se percibe como una materia abstracta, aburrida y difícil de conectar con la vida real. La idea detrás de QuimiLATAM nace para resolver este obstáculo: hacer que el aprendizaje de las ciencias exactas sea accesible, gamificado y 100% móvil para jóvenes de 13 a 18 años, sin requerir instalaciones pesadas ni servidores externos.
+2. Solución (0:30 - 1:00)"¿Cómo lo solucionamos? Desarrollamos QuimiLATAM, una aplicación web progresiva (SPA) construida con componentes modernos y Tailwind CSS que integra en un solo lugar cuestionarios gamificados, un sistema de rachas y niveles, una tabla periódica interactiva, una biblioteca teórica con diagramas en vivo, un Laboratorio Virtual con simulaciones guiadas paso a paso y un Editor de Moléculas en Red que valida las reglas de valencia en tiempo real directamente en el navegador.
+3. Demo en Vivo (1:00 - 1:40)"Permítanme mostrarles cómo funciona en acción (abrir la aplicación en pantalla):
+Primero, entramos a nuestra Biblioteca Teórica Interactiva, donde podemos explorar conceptos atómicos con diagramas dinámicos.
+Segundo, ingresamos al Laboratorio Virtual, seleccionamos una práctica aleatoria —como la medición del pH o la conservación de la masa de Lavoisier— y seguimos el paso a paso guiado con retroalimentación instantánea.
+Y tercero, en el Editor de Moléculas en Red, podemos colocar átomos de Carbono, Hidrógeno u Oxígeno sobre una matriz gráfica, trazar enlaces sencillos o dobles, y verificar de inmediato si la estructura y sus valencias corresponden a sustancias reales como el agua ($H_2O$) o el dióxido de carbono ($CO_2$).
+Aprendizaje Personal (1:40 - 2:00)"Desarrollar QuimiLATAM me permitió comprender que la ingeniería de software y la pedagogía van de la mano. Aprendí a estructurar una arquitectura modular limpia utilizando Signals en Angular y almacenamiento persistente local, equilibrando un diseño visual atractivo (con paleta accesible WCAG) y rigor científico riguroso. QuimiLATAM demuestra que con creatividad y código accesible, la ciencia puede apasionar a toda una generación en Latinoamérica. ¡Muchas gracias!"
